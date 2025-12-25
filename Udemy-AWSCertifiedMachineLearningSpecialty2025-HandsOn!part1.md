@@ -1,7 +1,9 @@
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/001_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p01 01. Udemy 101.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 001_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p01 01. Udemy 101
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -65,7 +67,7 @@
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-嘿
+                嘿
 只需几个 快速提示，教你如何使用Udemy的用户界面
 以便充分利用这门课程
 在你学习的过程中
@@ -119,12 +121,15 @@ CC按钮
 你随时都可以更新你的评价
 也可以在课程控制面板中编辑它
 我希望这些对你来说会有一些有用的提示，帮助你更好地利用这门课程 那么，让我们回到课程本身
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/003_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p03 04. Get the Course Materials.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 003_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p03 04. Get the Course Materials
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -188,7 +193,7 @@ CC按钮
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-在开始之前
+                在开始之前
 让我们确保你对本课程所需的材料熟悉
 特别是那些贯穿本课程的动手练习和实验室
 前往 sundog gdash
@@ -228,12 +233,15 @@ CC按钮
 完全自愿
 当然，但我们很乐意收到你的消息
 当然 就这样 让我们继续课程的主体
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/004_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p04 01. Section Intro Data Engineering.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 004_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p04 01. Section Intro Data Engineering
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -297,7 +305,7 @@ CC按钮
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-我们要讨论的第一个领域是数据工程
+                我们要讨论的第一个领域是数据工程
 你会发现在实际操作中，你花费大量时间收集和处理数据
 你需要训练你的人工智能算法
 通常，这比构建机器学习算法本身需要更多的努力
@@ -306,12 +314,15 @@ CC按钮
 我将此事交给Stefan Marek
 他是AWS存储解决方案的专家，并获得了AWS解决方案架构师的认证
 除了在AWS认证世界中是一位非常受欢迎的讲师 所以，开始吧 Stefan，带我们走进AWS中的数据工程世界
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/005_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p05 02. [Important] AWS Console UI Update.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 005_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p05 02. [Important] AWS Console UI Update
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -375,7 +386,7 @@ CC按钮
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-你好，在我们开始这个课程之前
+                你好，在我们开始这个课程之前
 关于aws的UI变化，请注意
 你可能看到这样的界面
 一个大而明亮的
@@ -402,12 +413,15 @@ CC按钮
 但它们完全相同
 只是按钮的新颜色和新形状
 好的 所以非常感谢 我会在下次讲座再见
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/006_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p06 03. Set up an AWS Billing Alarm.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 006_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p06 03. Set up an AWS Billing Alarm
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -471,7 +485,7 @@ CC按钮
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-如果你选择跟随本课程中的实际操作活动
+                如果你选择跟随本课程中的实际操作活动
 你可能想设置一个计费警报
 只是为了确保你没有无意中留下正在运行的东西
 这可能会花费你钱
@@ -509,12 +523,15 @@ CC按钮
 只是为了保护自己
 因为忘记关闭某事并让整个月份运行昂贵的资源实在是太容易了
 你不想那样做 所以花点时间保护自己并设置一个计费警报，然后我们继续
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/007_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p07 04. Amazon S3 - Overview.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 007_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p07 04. Amazon S3 - Overview
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -578,7 +595,7 @@ CC按钮
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-好的 那么我们开始讲s three
+                好的 那么我们开始讲s three
 首先你可能已经知道s three是什么
 但我只想快速过一遍要点
 你需要知道的东西来通过aws机器学习考试
@@ -708,12 +725,15 @@ JSON Parquet
 我们已经对数据进行了分区
 实际上我们的S3桶
 我们已经开始做这个 所以我希望你喜欢它 我会在下次讲座见到你
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/008_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p08 05. Amazon S3 Storage Classes + Glacier.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 008_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p08 05. Amazon S3 Storage Classes + Glacier
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -777,7 +797,7 @@ JSON Parquet
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-好的 那么我们来讨论一下亚马逊云存储的不同类别
+                好的 那么我们来讨论一下亚马逊云存储的不同类别
 首先，我们有亚马逊S3标准通用存储
 然后我们有亚马逊云存储频繁访问
 然后我们有亚马逊云存储一区频繁访问
@@ -909,12 +929,15 @@ JSON Parquet
 如果你理解类别的名字
 那么你应该能理解这些类别
 好的 这就是这节课的内容 我希望你喜欢它 我将在下节课见到你
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/009_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p09 06. Amazon S3 Storage + Glacier - Hands On.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 009_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p09 06. Amazon S3 Storage + Glacier - Hands On
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -978,7 +1001,7 @@ JSON Parquet
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-那么让我们在三中创建一个新的桶并命名为s三存储类
+                那么让我们在三中创建一个新的桶并命名为s三存储类
 演示2022
 好的 然后我创建在任何地区
 我将继续创建这个桶
@@ -1063,12 +1086,15 @@ JSON Parquet
 好的 就是这样
 我们已经看到了所有需要了解的存储类别
 我希望您喜欢它 我将在下次讲座见到您
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/010_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p10 07. Amazon S3 Lifecycle Rules (with S3 Analytics).ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 010_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p10 07. Amazon S3 Lifecycle Rules (with S3 Analytics)
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -1132,7 +1158,7 @@ JSON Parquet
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-那么现在我们来谈谈我们如何将对象在不同存储类之间移动
+                那么现在我们来谈谈我们如何将对象在不同存储类之间移动
 你可以转换它们
 这是它如何可能的图表
 正如你所见，你可以从标准
@@ -1209,12 +1235,15 @@ S3对象
 这是一个很好的第一步
 CSV报告可以帮助你制定合理的生命周期规则或者改进它们
 好的 这就是这节课的内容 希望你喜欢 我会在下节课见到你
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/011_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p11 08. Amazon S3 Lifecycle Rules - Hands On.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 011_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p11 08. Amazon S3 Lifecycle Rules - Hands On
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -1278,7 +1307,7 @@ CSV报告可以帮助你制定合理的生命周期规则或者改进它们
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-那么我们开始为我们的桶创建一个生命周期规则
+                那么我们开始为我们的桶创建一个生命周期规则
 那么我们在管理下创建一个生命周期规则
 这个将被称为演示规则
 我们将其应用于桶中的所有对象
@@ -1327,12 +1356,15 @@ CSV报告可以帮助你制定合理的生命周期规则或者改进它们
 就是这样了
 你知道如何自动化在亚马逊S3中不同存储类别之间的对象移动
 我希望你喜欢它 我会在下次讲座见到你
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/012_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p12 09. Amazon S3 - Bucket Policy.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 012_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p12 09. Amazon S3 - Bucket Policy
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -1396,7 +1428,7 @@ CSV报告可以帮助你制定合理的生命周期规则或者改进它们
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-现在我们来谈谈亚马逊S3的安全性
+                现在我们来谈谈亚马逊S3的安全性
 第一部分是用户基础
 作为用户 你可以有策略
 你和这个策略将授权特定的IAM用户允许哪些API调用
@@ -1498,12 +1530,15 @@ S三号桶更先进的
 如果你知道你的S3存储桶永远不会是公开的
 那么你可以在账户级别设置
 好的 好了，关于安全的部分就到这里 让我们进入实践环节
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/013_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p13 10. Amazon S3 - Bucket Policy Hands On.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 013_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p13 10. Amazon S3 - Bucket Policy Hands On
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -1567,7 +1602,7 @@ S三号桶更先进的
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-那么我们开始制定一个桶策略
+                那么我们开始制定一个桶策略
 以便我们可以通过公共URL访问这个咖啡文件
 为了做到这一点，让我们在权限选项下
 首先我们需要做的是允许桶设置中的公共访问
@@ -1637,12 +1672,15 @@ S三号桶更先进的
 桶策略 我们已经看到了策略生成器
 现在我们的图像是公开的
 我希望你喜欢它 我会在下节课见到你
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/014_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p14 11. Amazon S3 - Encryption.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 014_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p14 11. Amazon S3 - Encryption
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -1706,7 +1744,7 @@ S三号桶更先进的
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-现在我们来谈谈在亚马逊云存储中的对象加密
+                现在我们来谈谈在亚马逊云存储中的对象加密
 您可以使用以下四种方法之一，在S3桶中对象进行加密
 第一种是服务器端加密SSC
 您有多种口味
@@ -1848,12 +1886,15 @@ http端点没有加密
 但使用https的用户可能会被允许
 好的 这就是加密的全部内容
 我希望你喜欢它 我会在下一堂课见到你
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/015_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p15 12. Amazon S3 - Encryption Hands On.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 015_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p15 12. Amazon S3 - Encryption Hands On
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -1917,7 +1958,7 @@ http端点没有加密
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-那么我们来练习加密
+                那么我们来练习加密
 为此我将创建一个名为demo encryption的桶
 Stefan v2并滚动向下
 我们将保留此设置
@@ -2019,12 +2060,15 @@ sec不见了
 Ssc kms和dsc kms
 就是这样 我们已经看到了aws中的所有加密选项
 我希望你喜欢它 我会在下一节课见到你
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/016_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p16 13. Amazon S3 - Default Encryption.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 016_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p16 13. Amazon S3 - Default Encryption
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -2088,7 +2132,7 @@ Ssc kms和dsc kms
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-所以，关于默认加密与桶策略的简短讲座
+                所以，关于默认加密与桶策略的简短讲座
 因此，现在所有桶都默认使用ssc s三进行加密
 因此它会自动应用到新的对象，指向新的空桶
 但你可以更改这个成为不同的默认加密
@@ -2116,12 +2160,15 @@ Ssc kms和dsc kms
 但你可以更改它 你可以为它设置一个桶策略
 提前为想要加密的对象启用强制加密
 就是这样 希望你喜欢 下次课再见
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/017_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p17 14. Amazon S3 - VPC Endpoints.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 017_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p17 14. Amazon S3 - VPC Endpoints
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -2185,7 +2232,7 @@ Ssc kms和dsc kms
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-所以这里有一个简短的理论讲座
+                所以这里有一个简短的理论讲座
 但这对你理解VPC端点网关的工作方式很重要
 对于亚马逊三
 所以默认情况下，srubucket存储在AWS云中
@@ -2217,12 +2264,15 @@ Ssc kms和dsc kms
 显然，VPC端点网关从安全方面来说会更受欢迎
 而且我认为从成本方面来说也会更好
 这就是这次讲座的内容 希望你喜欢 下次再见
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/018_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p18 15. Amazon Kinesis Data Streams.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 018_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p18 15. Amazon Kinesis Data Streams
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -2286,7 +2336,7 @@ Ssc kms和dsc kms
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-现在我们来谈谈Kinesis数据流
+                现在我们来谈谈Kinesis数据流
 它是一个用于实时收集和存储训练数据的服务
 在考试中你需要特别注意的关键词是实时
 这里有一个图表来解释得更清楚
@@ -2375,12 +2425,15 @@ Kdata流的一些特性
 你将按流入和流出的数据量计费
 你可以看到数据流，好的
 就是这样 希望你喜欢 我会在下次讲座见到你
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/019_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p19 16. Amazon Data Firehose.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 019_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p19 16. Amazon Data Firehose
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -2444,7 +2497,7 @@ Kdata流的一些特性
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-现在我们来谈谈亚马逊数据流
+                现在我们来谈谈亚马逊数据流
 亚马逊数据流是一个将数据从源发送到目标目的地的服务
 要将数据发送到亚马逊数据流
 你可能需要生产者
@@ -2526,12 +2579,15 @@ Open search等 它是完全管理的
 没有存储数据和没有重放能力
 好的
 这就是这节课的内容 我希望你喜欢它 结束 我会在下一堂课再见到你
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/020_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p20 17. Lab 1.1 - Amazon Data Firehose.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 020_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p20 17. Lab 1.1 - Amazon Data Firehose
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -2595,7 +2651,7 @@ Open search等 它是完全管理的
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-好的 那么我们开始练习使用数据火喉为我们的课程
+                好的 那么我们开始练习使用数据火喉为我们的课程
 那么我们创建一个交付流
 在这里我们有一个图表，你可以看到火喉是如何工作的
 如果你需要复习
@@ -2707,12 +2763,15 @@ Snappy Zip或Hadoop兼容的Snappy
 我们将数据发送到亚马逊是免费的
 已验证 一切正常工作
 所以这很好 我希望你喜欢 我会在下次讲座见到你
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/021_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p21 18. Amazon Managed Service for Apache Flink.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 021_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p21 18. Amazon Managed Service for Apache Flink
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -2776,7 +2835,7 @@ Snappy Zip或Hadoop兼容的Snappy
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-现在我们来谈谈亚马逊管理的Apache Flink服务
+                现在我们来谈谈亚马逊管理的Apache Flink服务
 它以前被称为Kinesis数据分析Apache Flink
 但自从那时起，它已被重命名为仅管理Apache Flink服务
 所以Flink
@@ -2807,12 +2866,15 @@ Flink可以读取Yes
 好的 这就是你应该知道的关于亚马逊管理的Apache Flink的所有内容
 记住它仅用于流处理，用于处理数据流
 这就是本讲座的全部内容 希望你喜欢 我将在下次讲座见到你
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/022_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p22 19. Lab 1.2 - Managed Service for Apache Flink (Formely Kinesis Data Analytics).ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 022_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p22 19. Lab 1.2 - Managed Service for Apache Flink (Formely Kinesis Data Analytics)
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -2876,7 +2938,7 @@ Flink可以读取Yes
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-那么让我们来看看管理的Apache Flink
+                那么让我们来看看管理的Apache Flink
 管理的Apache Flink正在取代Kinesis数据分析
 现在所有数据流应用程序都直接使用Flink框架完成
 因此，我们可以选择开始
@@ -3018,12 +3080,15 @@ Flink演示流
 在这里 Flink演示堆栈并等待它完成
 然后在删除您的第二个堆栈之后
 就是这样 那么现在你已经对Apache Flink有了一个介绍 我希望你喜欢它 我会在下次讲座见到你
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/023_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p23 20. Managed Service for Apache Flink and Lambda.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 023_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p23 20. Managed Service for Apache Flink and Lambda
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -3087,7 +3152,7 @@ Flink演示流
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-因此，我们可以将kinesis数据分析与lambda函数配对
+                因此，我们可以将kinesis数据分析与lambda函数配对
 它不仅仅可以直接发送到流
 你也可以将其发送到lambda
 这给你更多的灵活性用于后处理
@@ -3170,12 +3235,15 @@ kinesis数据分析总是使用apache flink
 响应式分析
 基本上是同一个想法
 所以你知道 如果我想要实时分析谁访问我的网站 或者这可能是实现这一目标的一种方式
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/024_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p24 21. Kinesis Video Streams.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 024_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p24 21. Kinesis Video Streams
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -3239,7 +3307,7 @@ kinesis数据分析总是使用apache flink
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-最后，对于堪萨斯家族中的肯尼苏斯
+                最后，对于堪萨斯家族中的肯尼苏斯
 有肯的视频流
 所以我们在这里有k视频流，我们需要生产者
 视频流只是发送视频的
@@ -3300,12 +3368,15 @@ D计划，如弗兰克将向你展示的智能手机摄像头
 这就是肯尼的视频流
 我认为这很简单，进入考试
 只需考虑视频流 我将在下次讲座中见到你
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/025_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p25 22. Kinesis ML Summary.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 025_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p25 22. Kinesis ML Summary
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -3369,7 +3440,7 @@ D计划，如弗兰克将向你展示的智能手机摄像头
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-所以这是关于kinesis的长章节
+                所以这是关于kinesis的长章节
 但这里有一个快速总结
 当你想要创建实时机器学习应用时，你需要使用kinesis数据流
 好的 例如
@@ -3390,12 +3461,15 @@ D计划，如弗兰克将向你展示的智能手机摄像头
 检测面部等以实时创建机器学习应用对抗这些视频流
 好的 所以希望
 这现在很有道理 进入考试 我会在下次讲座见到你
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/026_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p26 23. Glue Data Catalog & Crawlers.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 026_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p26 23. Glue Data Catalog & Crawlers
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -3459,7 +3533,7 @@ D计划，如弗兰克将向你展示的智能手机摄像头
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-那么现在我们来谈谈glue数据目录和glue爬虫
+                那么现在我们来谈谈glue数据目录和glue爬虫
 那么glue数据目录是您账户中所有表的元数据仓库
 所以它会有所有机构的自动推断
 所有这些模式都会被版本化
@@ -3510,12 +3584,15 @@ Parquet Csv
 好的 所以让我们进入下一讲
 我将创建我们的第一个glue数据目录和我们的第一个glue爬虫
 以查看在s三中的数据集 所以下一讲见
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/027_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p27 24. Lab 1.3 - Glue Data Catalog.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 027_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p27 24. Lab 1.3 - Glue Data Catalog
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -3579,7 +3656,7 @@ Parquet Csv
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-现在我们在胶水数据目录中添加一个表格
+                现在我们在胶水数据目录中添加一个表格
 所以我要打开胶水
 然后在左侧的数据目录下
 我将找到爬虫
@@ -3669,12 +3746,15 @@ Parquet Csv
 我们创建了数据库和表，自动创建
 这就是在aws glue中拥有目录的基本方法
 我希望你喜欢它 我会在下一讲见到你
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/028_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p28 25. Glue ETL.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 028_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p28 25. Glue ETL
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -3738,7 +3818,7 @@ Parquet Csv
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-好的 所以最后有glue ETL和glue ETL代表提取
+                好的 所以最后有glue ETL和glue ETL代表提取
 转换和加载
 这肯定允许你转换数据
 清洗数据和丰富数据在你进行分析或训练机器学习模型之前
@@ -3787,12 +3867,15 @@ Jason Avro Parquet
 Or c Xml 等等
 您可以使用任何 Apache Spark 转换
 例如 K 意味着算法 所以让我们进入 Glue ETL UI 看看事情是如何工作的
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/029_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p29 26. Lab 1.4 - Glue ETL.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 029_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p29 26. Lab 1.4 - Glue ETL
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -3856,7 +3939,7 @@ Or c Xml 等等
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-那么让我们用胶水etl试试
+                那么让我们用胶水etl试试
 想法是我们想把这张表
 从json格式转换为parquet格式
 为此，点击数据集成和etl etl工作
@@ -4025,12 +4108,15 @@ Parquet Okay
 确实创建了一个名为条形图parquet的表在parquet格式中
 这确实展示了glue etl的力量
 就是这样 我希望你喜欢它 我将在下一节课见到你
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/030_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p30 27. Glue Data Brew.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 030_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p30 27. Glue Data Brew
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -4094,7 +4180,7 @@ Parquet Okay
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-所以这里有一个关于aws glue数据酿造服务的简短介绍
+                所以这里有一个关于aws glue数据酿造服务的简短介绍
 这是一个服务，允许您在不编写任何代码的情况下清洁和规范化数据
 您将获得一个用户界面
 正如我们在不久的实操中会看到的那样，从这个用户界面
@@ -4109,12 +4195,15 @@ Parquet Okay
 例如 过滤异常值
 数据转换和纠正无效值
 这就是关于简短介绍的所有内容 在接下来的讲座中，我将为您演示一些数据酿造的实操
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/031_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p31 28. Lab 1.5 - Glue Data Brew.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 031_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p31 28. Lab 1.5 - Glue Data Brew
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -4178,7 +4267,7 @@ Parquet Okay
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-好的 让我们看看数据酿造
+                好的 让我们看看数据酿造
 因此，制作胶水是一种服务
 这将使我们能够真正规范化和清理我们的数据
 因此，让我们创建一个项目并看看它
@@ -4372,12 +4461,15 @@ Avro等等
 我们已经运行了我们的数据酿造工作
 实际上我们在其上创建了一个食谱来转换列
 我希望你喜欢它 我会在下节课见到你
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/032_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p32 29. Lab 1.6 - Athena.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 032_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p32 29. Lab 1.6 - Athena
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -4441,7 +4533,7 @@ Avro等等
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-那么让我们练习使用亚马逊Athena来立即查询我们的数据
+                那么让我们练习使用亚马逊Athena来立即查询我们的数据
 在亚马逊S3中
 那么让我们探索查询编辑器
 它说在我们运行第一个查询之前
@@ -4483,12 +4575,15 @@ Athena可以用来在表上运行SQL查询
 好的 这就是本讲座的内容
 我希望你喜欢它很短
 但是Frank将详细解释亚马逊Athena 我将在下一个讲座中见到你
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/033_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p33 30. Lab 1 - Cleanup.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 033_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p33 30. Lab 1 - Cleanup
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -4552,7 +4647,7 @@ Athena可以用来在表上运行SQL查询
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-所以你可以清理你的环境
+                所以你可以清理你的环境
 但现在并没有花费你任何金钱
 但你可以清理亚马逊雅典娜
 但这不花费你任何金钱
@@ -4579,12 +4674,15 @@ Athena可以用来在表上运行SQL查询
 因为这里是考试要求你仅仅知道概念，而不是需要进行手头实践
 所以这就是这节课的内容
 我希望你喜欢它 我将在下一节课见到你 结束
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/034_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p34 31. AWS Data Stores in Machine Learning.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 034_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p34 31. AWS Data Stores in Machine Learning
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -4648,7 +4746,7 @@ Athena可以用来在表上运行SQL查询
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-那么在进入机器学习考试时
+                那么在进入机器学习考试时
 你将有一些关于数据存储的问题
 但它们非常 非常高层次
 因此我们不会深入探讨所有这些
@@ -4720,12 +4818,15 @@ RDS可能被使用
 因为你不需要深入了解它们
 我给你的介绍足以让你通过考试
 好的 就是这样 下次再见
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/035_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p35 32. AWS Data Pipelines.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 035_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p35 32. AWS Data Pipelines
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -4789,7 +4890,7 @@ RDS可能被使用
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-现在我们来谈谈aws数据管道
+                现在我们来谈谈aws数据管道
 数据管道是一种服务，用于将数据从一个地方移动到另一个地方
 所以它是一个etl服务
 在考试中，你需要了解它的高层架构
@@ -4851,12 +4952,15 @@ C
 二或我们的实例中，属于您自己的账户
 好的 这就是大致情况
 所以，希望这对您有帮助 在下次讲座中见 我希望这有所帮助 我会在下次讲座中见到您
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/036_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p36 33. AWS Batch.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 036_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p36 33. AWS Batch
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -4920,7 +5024,7 @@ C
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-你需要了解的下一个服务在较高层面上是aws批处理
+                你需要了解的下一个服务在较高层面上是aws批处理
 aws批处理允许你运行批处理作业，正如其名所示
 它们基于docker镜像构建
 因此，使用批处理服务你不需要手动配置实例
@@ -4966,12 +5070,15 @@ aws批处理允许你运行批处理作业，正如其名所示
 但它仍然是批处理导向的
 那么AWS批处理会更好
 这就是关于这个服务的所有内容 希望这对你有帮助 那么下次讲座再见
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/037_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p37 34. AWS DMS - Database Migration Services.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 037_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p37 34. AWS DMS - Database Migration Services
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -5035,7 +5142,7 @@ aws批处理允许你运行批处理作业，正如其名所示
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-现在我们再来一次，对另一个服务的高级概述
+                现在我们再来一次，对另一个服务的高级概述
 这就是数据库迁移服务
 这是一种快速安全的将数据库迁移到aws的方法
 它具有弹性和自我恢复功能，源数据库在迁移过程中保持可用
@@ -5078,12 +5185,15 @@ ETL
 因此，这两项服务是互补的
 但是记住，dms是用于数据库迁移的，而glue是用于纯ETL的
 好的 嗯 这就是这节课的内容 我希望你喜欢它 我会在下节课见到你
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/038_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p38 35. AWS Step Functions.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 038_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p38 35. AWS Step Functions
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -5147,7 +5257,7 @@ ETL
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-因此，步骤函数在这里负责编排和设计工作流程
+                因此，步骤函数在这里负责编排和设计工作流程
 它为您提供直观的可视化
 在下一页中，我们将看到一些
 它为您提供高级的错误处理和重试机制，超出代码之外
@@ -5215,12 +5325,15 @@ ETL
 嗯
 我希望这对你有帮助，我会在下次讲座见到你
 Okay Well I hope that was helpful And i will see you in the next lecture
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/039_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p39 36. Full Data Engineering Pipelines.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 039_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p39 36. Full Data Engineering Pipelines
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -5284,7 +5397,7 @@ Okay Well I hope that was helpful And i will see you in the next lecture
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-好的 所以，这只是一个非常大且冗长的
+                好的 所以，这只是一个非常大且冗长的
 我们讲座的目的是总结我们所看到的所有服务
 并试图理解它们如何相互配合。现在这可能对你来说相当沉重
 但我希望你现在理解我所说的一切
@@ -5396,12 +5509,15 @@ c 两个实例 读取canes
 不要担心 弗兰克会向你介绍一切
 我就把你交给他了
 这就是我在这门课程上的全部内容 希望你喜欢 我会再见到你，弗兰克也会再见到你，下次讲座见
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/040_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p40 37. Random things you need to know AWS DataSync and MQTT.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 040_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p40 37. Random things you need to know AWS DataSync and MQTT
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -5465,7 +5581,7 @@ c 两个实例 读取canes
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-所以我简要地要触及几个主题，它们与机器学习没有直接关系，但是我们从参加考试的学生那里得知，
+                所以我简要地要触及几个主题，它们与机器学习没有直接关系，但是我们从参加考试的学生那里得知，
 但是，如果我们在之前的认证中没有遇到过这些主题，你可能会感到困惑
 嗯，如果你之前没有接触过这些主题，你可能会感到困惑
 一个是AWS数据同步
@@ -5513,12 +5629,15 @@ AWS连接是AWS IoT设备
 SDK可以使用MQTT协议连接到设备
 所以如果你看到mqtt t，只需想到物联网，物联网传感器
 这就是上下文，问题试图通过谈论mqtt t给你 这就是全部 就是它
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/041_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p41 01. Section Intro Data Analysis.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 041_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p41 01. Section Intro Data Analysis
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -5582,7 +5701,7 @@ SDK可以使用MQTT协议连接到设备
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-在接下来的部分中
+                在接下来的部分中
 我将带你进入探索性数据分析的世界
 数据工程使你的数据到达它需要的地方
 但你用于机器学习的算法往往需要你的数据处于特定的格式
@@ -5606,12 +5725,15 @@ Athena Quick site mapreduce和Apache Spark
 当我们完成时 我们有一个有趣的动手练习
 我们将在Elastic MapReduce上为维基百科构建一个搜索引擎
 这需要我们的数据需要进行大量的预处理 让我们开始学习如何在训练之前理解并准备我们的数据
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/043_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p43 03. Example Preparing Data for Machine Learning in a Jupyter Notebook.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 043_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p43 03. Example Preparing Data for Machine Learning in a Jupyter Notebook
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -5675,7 +5797,7 @@ Athena Quick site mapreduce和Apache Spark
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-如果你刚接触这一切
+                如果你刚接触这一切
 通常你会在这样一个环境中进行探索性数据分析
 在一个叫做jupyter笔记本的地方
 jupyter笔记本实际上在你的网页浏览器中运行
@@ -5900,12 +6022,15 @@ TensorFlow和Keras
 这一切都在一个笔记本中进行，非常高级
 这就是在这里发生的事情
 这是机器学习世界中非常普遍的模式 希望这有助于使其都变得真实
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/044_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p44 04. Types of Data.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 044_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p44 04. Types of Data
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -5969,7 +6094,7 @@ TensorFlow和Keras
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-对于新接触数据科学的人来说
+                对于新接触数据科学的人来说
 让我们从数据科学的基础知识开始
 在考试中你一定需要这些基本概念
 让我们从讨论你可能遇到的不同类型的数据开始
@@ -6071,12 +6196,15 @@ TensorFlow和Keras
 在很多情况下，你可以实际上以同样的方式处理它
 这就是全部 这就是三种类型的数据
 数值 分类 顺序
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/045_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p45 05. Data Distributions.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 045_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p45 05. Data Distributions
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -6140,7 +6268,7 @@ TensorFlow和Keras
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-让我们深入数据分布
+                让我们深入数据分布
 这描述了你的数据落在特定范围内的可能性，本质上
 当你进行探索性数据分析时，这非常重要
 这也是你很可能在考试中看到的内容
@@ -6251,12 +6379,15 @@ Lambda将代表预期的房屋销售数量
 记住，只有正态分布是连续数据
 其余的则是离散数据
 记得，只有正态分布是连续数据 其余的则是离散数据
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/046_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p46 06. Time Series Trends and Seasonality.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 046_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p46 06. Time Series Trends and Seasonality
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -6320,7 +6451,7 @@ Lambda将代表预期的房屋销售数量
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-我们来谈谈与时间序列分析相关的一些基本知识
+                我们来谈谈与时间序列分析相关的一些基本知识
 所有时间序列都像它听起来的那样，是一系列随时间变化的数据点
 它们通常都是离散的样本
 在时间的某个特定点采集
@@ -6404,12 +6535,15 @@ Lambda将代表预期的房屋销售数量
 一种模型或另一种模型可能在描述您的数据方面更好
 您知道那里存在一个时间序列分析的世界
 但对于考试的目的，对探索性数据分析 这就是您需要了解的部分
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/047_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p47 07. Introduction to Amazon Athena.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 047_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p47 07. Introduction to Amazon Athena
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -6473,7 +6607,7 @@ Lambda将代表预期的房屋销售数量
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-因此，我们讨论了一些分析并准备数据的一般方法
+                因此，我们讨论了一些分析并准备数据的一般方法
 你可能在AWS内外使用它
 但是让我们谈谈一些你可能使用的特定AWS服务
 在探索你的数据过程中，过于明显地发挥了在考试中的巨大作用。
@@ -6579,12 +6713,15 @@ s3 ssc kms或csse kms
 这正是glue etl的作用
 所以athena只适用于做ad hoc查询
 嗯 使用sql对你的s3数据湖进行查询 就是这样
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/048_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p48 08. Overview of Amazon Quicksight.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 048_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p48 08. Overview of Amazon Quicksight
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -6648,7 +6785,7 @@ s3 ssc kms或csse kms
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-我们来花点时间谈谈亚马逊快速站点
+                我们来花点时间谈谈亚马逊快速站点
 尽管快速站点从技术上讲更多是一个数据分析工具
 但它明确包含在机器学习考试中
 所以我们要花些时间来讨论这个
@@ -6884,12 +7021,15 @@ QuickSite用户只需要管理一个单一的数据集
 并且只在企业版中
 也有与活动目录的集成
 所有内容都有多因素身份验证 当然 因为那才是现在的标准
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/049_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p49 09. Types of Visualizations, and When to Use Them.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 049_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p49 09. Types of Visualizations, and When to Use Them
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -6953,7 +7093,7 @@ QuickSite用户只需要管理一个单一的数据集
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-让我们更深入地了解快速站点可视化的外观
+                让我们更深入地了解快速站点可视化的外观
 他们喜欢在考试中问这样的问题：给定这个数据集，你想要从中获取什么
 哪种可视化方式最合适
 所以让我们看看它们看起来是什么样的，快速小仪表板
@@ -7155,12 +7295,15 @@ QuickSite用户只需要管理一个单一的数据集
 基于这种分析
 这种数据
 哪种可视化是有意义的 知道菜单是什么以及他们应该做什么是好的
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/050_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p50 10. Elastic MapReduce (EMR) and Hadoop Overview.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 050_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p50 10. Elastic MapReduce (EMR) and Hadoop Overview
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -7224,7 +7367,7 @@ QuickSite用户只需要管理一个单一的数据集
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-接下来，让我们深入探索弹性地图reduce（Elastic MapReduce，简称EMR）的世界
+                接下来，让我们深入探索弹性地图reduce（Elastic MapReduce，简称EMR）的世界
 简称
 它是一个在AWS上运行的管理Hadoop框架
 EC two实例 和实例
@@ -7365,12 +7508,15 @@ emr按小时收费
 你可以使用spot实例来添加或移除容量
 而不影响hdfs文件系统的底层存储
 你也可以在运行集群中调整核心节点 你可以为容量规划这样做
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/051_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p51 11. Apache Spark on EMR.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 051_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p51 11. Apache Spark on EMR
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -7434,7 +7580,7 @@ emr按小时收费
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-那么hadoop到底是什么
+                那么hadoop到底是什么
 它由几个不同的部分组成，我们将讨论这些部分
 你emr集群上的其他内容通常建立在这些模块之上
 同样 当我们谈论hadoop本身时
@@ -7623,12 +7769,15 @@ Spark流处理与Kinesis集成
 你也可以查询你的结果并用图表和图形可视化它们
 使用matplotlib和seaborne等工具
 这使得spark感觉更像一个数据科学工具 并允许你以数据科学家熟悉的格式预处理你的数据
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/052_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p52 12. EMR Notebooks, Security, and Instance Types.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 052_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p52 12. EMR Notebooks, Security, and Instance Types
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -7692,7 +7841,7 @@ Spark流处理与Kinesis集成
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-Emr 建立在此基础上
+                Emr 建立在此基础上
 然而 使用 emr 笔记本
 它与 zeppelin 的概念相似
 但与 aws 本身有更多集成
@@ -7812,12 +7961,15 @@ To use to set up the security for your emr cluster while it's being created
 但是记住，任务节点可以根据需要启动和停止
 所以在任务节点上使用spot实例是一个很好的省钱方式
 如果你需要根据动态调整容量 如果你需要调整你的容量动态
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/053_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p53 13. Feature Engineering and the Curse of Dimensionality.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 053_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p53 13. Feature Engineering and the Curse of Dimensionality
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -7881,7 +8033,7 @@ To use to set up the security for your emr cluster while it's being created
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-让我们深入机器学习中的特征工程世界
+                让我们深入机器学习中的特征工程世界
 特征工程到底是什么
 嗯，基本上，它是将你对数据的了解应用到
 某种程度上修剪掉你使用的特征
@@ -8033,12 +8185,15 @@ K均值聚类是另一种方法
 但是 更多的特征并不一定更好
 至少我们称之为维度诅咒
 而这就是我们要做特征工程的主要原因 这也是你在这个过程中要做的主要事情
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/054_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p54 14. Imputing Missing Data.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 054_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p54 14. Imputing Missing Data
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -8102,7 +8257,7 @@ K均值聚类是另一种方法
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-因此，特征工程的一大部分是缺失数据的插补
+                因此，特征工程的一大部分是缺失数据的插补
 当你的数据中有
 嗯 缺失数据元素时
 这就是现实世界中发生的事情
@@ -8277,12 +8432,15 @@ K均值聚类是另一种方法
 虽然填补技术是掩盖问题的一种方式
 当你没有数据并且无法获取更多时
 总是一个好主意，获取更多的和更好的数据 如果你可以
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/055_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p55 15. Dealing with Unbalanced Data.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 055_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p55 15. Dealing with Unbalanced Data
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -8346,7 +8504,7 @@ K均值聚类是另一种方法
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-在特征工程领域，另一个问题是处理不平衡数据
+                在特征工程领域，另一个问题是处理不平衡数据
 你指的是什么
 那就是我们在正例和负例之间存在巨大的差异
 在我们的训练数据中
@@ -8469,12 +8627,15 @@ SMOTE是一个很好的选择
 如果不是欺诈
 反之亦然
 所以你需要考虑假阳性和假阴性的成本 并且根据你的选择阈值
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/056_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p56 16. Handling Outliers.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 056_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p56 16. Handling Outliers
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -8538,7 +8699,7 @@ SMOTE是一个很好的选择
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-在特征工程领域，另一个问题是如何处理数据集中的异常值
+                在特征工程领域，另一个问题是如何处理数据集中的异常值
 你如何处理它们 你是如何处理它们的
 你是如何识别它们的
 在我们谈论异常值之前
@@ -8724,12 +8885,15 @@ Sagemaker和更多，如果你谈论的是异常值和异常值检测
 你的异常值来自哪里
 你真的应该把那位亿万富翁排除在外吗
 这对你试图实现的商业成果真的有什么影响 归根结底
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/058_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p58 18. Amazon SageMaker Ground Truth and Label Generation.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 058_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p58 18. Amazon SageMaker Ground Truth and Label Generation
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -8793,7 +8957,7 @@ Sagemaker和更多，如果你谈论的是异常值和异常值检测
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-让我们最后谈谈sagemaker的ground truth服务
+                让我们最后谈谈sagemaker的ground truth服务
 这是从亚马逊推出的一个相对较新产品
 那么它是什么呢
 它基本上是一种利用人类来标记你的数据的方式
@@ -8903,12 +9067,15 @@ ground truth与众不同的地方在于，它会在它接收到标签时创建�
 但这里没什么好说的
 基本上
 这是将数据标签问题外包给他人的一种方式 ground truth plus 如果你愿意支付
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/059_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p59 19. Lab Preparing Data for TF-IDF with Spark and EMR Studio, Part 1.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 059_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p59 19. Lab Preparing Data for TF-IDF with Spark and EMR Studio, Part 1
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -8972,7 +9139,7 @@ ground truth与众不同的地方在于，它会在它接收到标签时创建�
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-因此，在这个实验中，我们将练习如何大规模准备数据
+                因此，在这个实验中，我们将练习如何大规模准备数据
 在 Apache Spark 上
 在一个集群中 我们将在准备数据以供tf使用的上下文中进行操作。
 IDF算法
@@ -9083,12 +9250,15 @@ tf-idf的任务是填充这个矩阵
 我们将使用aws，elastic mapreduce和apache spark构建自己的搜索引擎
 我们的主要目标是提前处理数据
 因为，这就是我们要讨论的 我们将在aws上使用elastic mapreduce和apache spark
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/060_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p60 20. Lab Preparing Data for TF-IDF with Spark and EMR Studio, Part 2.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 060_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p60 20. Lab Preparing Data for TF-IDF with Spark and EMR Studio, Part 2
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -9152,7 +9322,7 @@ tf-idf的任务是填充这个矩阵
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-好的
+                好的
 所以对于这个活动 我们将重新创建维基百科
 如果你愿意，我们将使用我们从真实维基百科中提取的一小部分数据
 但是，我们不会使用一些深度神经网络来搜索数据，保持时尚
@@ -9581,12 +9751,15 @@ Spark在这方面可能会有点非确定性
 这就是了
 我们已经使用emr studio来创建一个交互式笔记本，我们用它来进行操作。
 实际上实现了tf-idf，并从头开始做了一点维基百科搜索 如此酷炫
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/061_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p61 01. Section Intro Modeling.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 061_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p61 01. Section Intro Modeling
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -9650,7 +9823,7 @@ Spark在这方面可能会有点非确定性
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-我们将深入探讨这门课程的最复杂部分
+                我们将深入探讨这门课程的最复杂部分
 这也是考试中权重最重的领域——建模
 在这一部分，我们将最终进行机器学习，在我们收集
 分析并准备我们的训练数据之后
@@ -9688,12 +9861,15 @@ Lex Deep lens
 并尝试不同超参数的效果
 这样你就能感受到它们在现实中是如何工作的
 最终，这就是你在这次认证中被测试的内容 让我们开始吧 这里有很多内容要覆盖
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/062_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p62 02. Introduction to Deep Learning.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 062_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p62 02. Introduction to Deep Learning
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -9757,7 +9933,7 @@ Lex Deep lens
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-所以我们在谈论机器学习时不能不谈论深度学习
+                所以我们在谈论机器学习时不能不谈论深度学习
 我的意思是，这在该领域是最热门的
 现在 你不需要在深度学习内部进行大量的深度
 对于考试 但我们至少需要识别出那里存在的不同类型的神经网络
@@ -9949,12 +10125,15 @@ Lex Deep lens
 如果你看到这些术语
 lstm或gru
 记住这些只是rnns的类型 让我们深入探讨cnns和rns
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/063_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p63 03. Activation Functions.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 063_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p63 03. Activation Functions
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -10018,7 +10197,7 @@ lstm或gru
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-我们之前提到过激活函数
+                我们之前提到过激活函数
 但让我们深入探讨一下，因为它们是一个重要的概念
 原来有许多不同类型的激活函数可以选择
 选择正确的一个对于神经网络的性能可能是重要的
@@ -10258,12 +10437,15 @@ lstm或gru
 这些都是主要的 虽然它们是流行的
 以及如何选择适合特定问题的激活函数
 这可能会出现在考试中 所以确保你理解这一点
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/064_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p64 04. Convolutional Neural Networks.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 064_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p64 04. Convolutional Neural Networks
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -10327,7 +10509,7 @@ lstm或gru
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-让我们更深入地探讨CNN的第一个方面
+                让我们更深入地探讨CNN的第一个方面
 通常你听到关于CNN的是与图像分析相关的
 它们的整个目的是在你数据中找到东西
 这可能不是你预期的地方
@@ -10567,12 +10749,15 @@ CNN的魔法真的发生在较低层次
 正如你所见 CNNs在性能上要求很高
 ResNet在AWS的世界里经常被提及
 通常ResNet的变体，如ResNet五十 特别是在SageMaker和其他地方的图像分类算法中
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/065_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p65 05. Recurrent Neural Networks.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 065_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p65 05. Recurrent Neural Networks
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -10636,7 +10821,7 @@ ResNet在AWS的世界里经常被提及
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-现在我们深入探讨一下循环神经网络，以及它们的原理
+                现在我们深入探讨一下循环神经网络，以及它们的原理
 所以，RNN 到底是什么
 RNN 的主要用途是什么？
 基本上，它们用于处理时间序列数据
@@ -10844,12 +11029,15 @@ G u cell在实践中非常流行
 它可能会完全无用
 即使您运行了几个小时以查看它是否实际上起作用，所以再次
 在您能够尝试找到一些拓扑结构和参数集，它们在您试图解决的问题上表现良好时，再次研究之前的研究是非常重要的 当您能够尝试找到一些拓扑结构和参数集，它们在您试图解决的问题上表现良好时，再次研究之前的研究是非常重要的
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/066_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p66 06. Modern NLP with BERT and GPT, and Transfer Learning.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 066_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p66 06. Modern NLP with BERT and GPT, and Transfer Learning
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -10913,7 +11101,7 @@ G u cell在实践中非常流行
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-所以cnn的和rnns的种类是大型深度学习开始的地方，对吧
+                所以cnn的和rnns的种类是大型深度学习开始的地方，对吧
 但是今天的深度学习模型
 你知道的那些你在新闻中看到的gpt
 和三系统，它们非常擅长模拟人类
@@ -11084,12 +11272,15 @@ hugging face现在与sagemaker集成，使用hugging face deep learning容器
 因为现代的NLP模型非常复杂并且有非常多的参数
 迁移学习几乎是一个必需品
 所以这两者现在紧密相关 这就是自然语言处理中的迁移学习
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/067_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p67 07. Deep Learning on EC2 and EMR.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 067_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p67 07. Deep Learning on EC2 and EMR
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -11153,7 +11344,7 @@ hugging face现在与sagemaker集成，使用hugging face deep learning容器
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-我们已经谈了很多关于深度学习的一般概念
+                我们已经谈了很多关于深度学习的一般概念
 这没问题 考试确实讨论了深度学习的一般概念
 不一定与aws相关
 谈了很多 但让我们把它变成现实，谈谈如何在亚马逊硬件上部署深度学习
@@ -11250,12 +11441,15 @@ n代表网络
 因此推理可能会是未来需要优化的重要事情
 这就是f2实例类型所起的作用
 我们稍后会在课程中更详细地讨论转换器和大语言模型 但现在它们正在推出这些实例类型来支持这一点
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/068_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p68 08. Tuning Neural Networks.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 068_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p68 08. Tuning Neural Networks
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -11319,7 +11513,7 @@ n代表网络
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-我们来谈谈如何调整你的神经网络
+                我们来谈谈如何调整你的神经网络
 再次强调，这是考试中的部分内容
 他们试图筛选出那些没有在现实生活中真正做过的人 这不是通常教授的内容
 但我会尽力
@@ -11425,12 +11619,15 @@ n代表网络
 所以记住这一点
 写下来 重要的事情
 再次强调 这是大多数人通过经验学到的东西的例子 但我正在尝试在这里提前教你
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/070_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p70 10. L1 and L2 Regularization.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 070_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p70 10. L1 and L2 Regularization
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -11494,7 +11691,7 @@ n代表网络
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-接下来我们来谈谈L1和L2正则化
+                接下来我们来谈谈L1和L2正则化
 这比深度学习更广泛
 这适用于整个机器学习领域
 但我们会期望你知道两者之间的区别
@@ -11557,12 +11754,15 @@ L1正则化可能更适合你
 这就是区别 L1正则化进行特征选择
 L2正则化保留所有特性
 但会给它们不同的权重 这就是主要区别 这就是L1和L2正则化的主要区别
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/071_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p71 11. Grief with Gradients The Vanishing Gradient problem.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 071_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p71 11. Grief with Gradients The Vanishing Gradient problem
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -11626,7 +11826,7 @@ L2正则化保留所有特性
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-在考试中让我有点惊讶的是
+                在考试中让我有点惊讶的是
 他们对训练神经网络各种边缘案例的深度期望
 其中一些涉及到梯度和它们一些数值问题
 让我们深入探讨一下
@@ -11718,12 +11918,15 @@ Than the code and frameworks that you're working with
 如果考试中抛出这个问题，你可能需要了解它的含义
 所以这就是梯度带来的麻烦
 以及梯度在训练中可能引起的具体问题 训练中的梯度问题
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/072_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p72 12. The Confusion Matrix.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 072_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p72 12. The Confusion Matrix
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -11787,7 +11990,7 @@ Than the code and frameworks that you're working with
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-在考试中你会经常看到混淆矩阵的概念
+                在考试中你会经常看到混淆矩阵的概念
 所以我们来深入了解这些是什么
 混淆矩阵是什么
 准确性有时并不能完全说明问题
@@ -11961,12 +12164,15 @@ Than the code and frameworks that you're working with
 真的都对
 所以再次 我不确定这是否会出现在长期考试中
 因为这种做法是从他们废弃的服务中遗留下来的 但以防万一这就是你阅读这些家伙的方式
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/073_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p73 13. Precision, Recall, F1, AUC, and more.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 073_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p73 13. Precision, Recall, F1, AUC, and more
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -12030,7 +12236,7 @@ Than the code and frameworks that you're working with
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-我们来谈谈可以从混淆矩阵中导出的一些指标
+                我们来谈谈可以从混淆矩阵中导出的一些指标
 这在考试中非常重要，伙计们
 所以请留意
 所以让我们重新审视我们的朋友
@@ -12187,12 +12393,15 @@ F1分数
 但是PR曲线在大规模信息检索问题中更容易可视化
 所以将这个也加到你的小抄上
 PR曲线，精确率-召回率曲线 PR曲线对于信息检索非常有用
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/075_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p75 01. Introducing Amazon SageMaker.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 075_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p75 01. Introducing Amazon SageMaker
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -12256,7 +12465,7 @@ PR曲线，精确率-召回率曲线 PR曲线对于信息检索非常有用
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-到目前为止
+                到目前为止
 考试中出现最多的服务是亚马逊的sagemaker
 Sagemaker基本上是亚马逊机器学习提供的核心
 所以我们将在这方面花费大量时间
@@ -12455,12 +12664,15 @@ ml lib库
 所以这里有一个安全网，你也可以使用
 我们会详细讨论这些
 但现在 让我们深入研究我们拥有的内置训练模型 并了解一下我们有什么
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/076_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p76 03. Linear Learner in SageMaker.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 076_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p76 03. Linear Learner in SageMaker
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -12524,7 +12736,7 @@ ml lib库
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-让我们开始探索sagemaker提供的内置算法的长列表
+                让我们开始探索sagemaker提供的内置算法的长列表
 实际上你会被期望了解这些内容
 以及每个算法的特殊和古怪之处
 所以大家注意听，记笔记
@@ -12633,12 +12845,15 @@ L2在这个特定的超参数集中被称为权重衰减
 所以这有点酷
 这就是线性学习者的基本概述
 我们将继续深入探讨每个算法 并讨论可能在考试中出现的重要点
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/077_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p77 04. XGBoost in SageMaker.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 077_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p77 04. XGBoost in SageMaker
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -12702,7 +12917,7 @@ L2在这个特定的超参数集中被称为权重衰减
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-Next
+                Next
 让我们谈谈xg boost及其内置的算法用于sagemaker
 xg boost最近非常流行
 它代表极端梯度提升
@@ -12820,12 +13035,15 @@ dn和g5实例类型作为xgboost的可能性
 你需要将分布参数设置为完全复制
 这将自动将你的训练数据分散到集群中
 记住分布式gpu训练 目前只支持csv或parquet输入
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/078_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p78 05. Seq2Seq in SageMaker.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 078_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p78 05. Seq2Seq in SageMaker
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -12889,7 +13107,7 @@ dn和g5实例类型作为xgboost的可能性
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-接下来
+                接下来
 我们将讨论sagemaker的seek to seek算法，即序列到序列
 这可能会让我们想起我们谈论过的rnns
 这是一个例子，你可以输入一个令牌的序列
@@ -12990,12 +13208,15 @@ GT或RMSProp
 如果你在做一个非常大的训练工作
 寻求 使用一台非常强劲的主机
 嗯 p 三有很多gpu
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/079_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p79 06. DeepAR in SageMaker.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 079_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p79 06. DeepAR in SageMaker
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -13059,7 +13280,7 @@ GT或RMSProp
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-接下来在我们sagemaker bestiary中的是deep ar
+                接下来在我们sagemaker bestiary中的是deep ar
 Deep ar用于预测一维时间序列数据
 所以它是经典的
 RNN用例，即循环神经网络
@@ -13145,12 +13366,15 @@ RNN
 请记住，您可能需要更大的实例进行调优
 调优阶段可能需要很长时间，并且非常计算密集
 因此，有时在调优阶段使用更强大的实例是有意义的 然后稍微降低实际生产阶段的性能
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/080_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p80 07. BlazingText in SageMaker.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 080_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p80 07. BlazingText in SageMaker
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -13214,7 +13438,7 @@ RNN
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-接下来让我们探讨一下“炙热文本”算法
+                接下来让我们探讨一下“炙热文本”算法
 你会认为，名字叫“Blazing Text”的东西
 这将是一个极其通用的巨大自然语言处理事物
 但实际上它能做的事情非常有限
@@ -13325,12 +13549,15 @@ Skip gram或bat Skip gram
 如果你使用少于2GB的训练数据
 如果你需要更大的东西
 你可以升级到P2 XL或P3 2XL 所以它可以与那个CPU或GPU一起使用
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/081_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p81 08. Object2Vec in SageMaker.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 081_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p81 08. Object2Vec in SageMaker
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -13394,7 +13621,7 @@ Skip gram或bat Skip gram
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-接下来我们将讨论对象到向量
+                接下来我们将讨论对象到向量
 如果你记得我们谈论过快速文本
 我们谈论过单词到向量
 那是局限于在句子中寻找单个单词之间的关系
@@ -13495,12 +13722,15 @@ p3 并且新的g4实例类型
 虽然他们建议特别使用ml p3.2xlarge进行推理
 他们还建议使用inference_preferred环境变量
 以优化编码器嵌入而不是分类或回归 如果您认为这有意义
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/082_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p82 09. Object Detection in SageMaker.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 082_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p82 09. Object Detection in SageMaker
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -13564,7 +13794,7 @@ p3 并且新的g4实例类型
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-我们来谈谈一个有趣的话题
+                我们来谈谈一个有趣的话题
 SageMaker中的对象检测算法
 这里的想法是识别图片中的所有对象
 以及它们所在的位置，通过边界框来标识这些对象的存在
@@ -13644,12 +13874,15 @@ TensorFlow称之为batch size
 他们推荐在CPU方面使用m5，而在GPU方面
 任何选择都可以
 P2 P3 G4dn都是可以的
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/083_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p83 10. Image Classification in SageMaker.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 083_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p83 10. Image Classification in SageMaker
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -13713,7 +13946,7 @@ P2 P3 G4dn都是可以的
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-现在，物体检测算法的一个近亲是图像分类算法
+                现在，物体检测算法的一个近亲是图像分类算法
 你可以大致预期会有关于两者之间差异的问题
 所以，物体检测算法会告诉你图像中的物体在哪里
 图像分类只会告诉你图像中的物品
@@ -13779,12 +14012,15 @@ gpu实例
 我说的是机器学习变体
 ml m5
 mlp2 等等
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/084_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p84 11. Semantic Segmentation in SageMaker.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 084_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p84 11. Semantic Segmentation in SageMaker
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -13848,7 +14084,7 @@ mlp2 等等
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-我们还在继续我们的计算机视觉项目
+                我们还在继续我们的计算机视觉项目
 让我们谈谈语义分割
 你可能记得图像分类只能检测图像中的对象
 目标检测算法更进一步，告诉你这些对象在图像中的边界框
@@ -13916,12 +14152,15 @@ P3 G4DN或G5实例
 你可以使用CPU实例
 他们推荐C5或M5
 或者你可以使用GPU实例 如果你想要的话，P3或G4DN
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/085_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p85 12. Random Cut Forest in SageMaker.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 085_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p85 12. Random Cut Forest in SageMaker
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -13985,7 +14224,7 @@ P3 G4DN或G5实例
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-接下来我们将讨论随机切割森林
+                接下来我们将讨论随机切割森林
 这是亚马逊用于异常检测的算法
 它在无监督环境中工作
 基本上，它正在查看一系列数据
@@ -14051,12 +14290,15 @@ How does it work under the hood
 推荐使用c5. l进行推理
 那就是随机切割森林
 记住，随机切割森林用于异常检测 你应该没问题
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/086_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p86 13. Neural Topic Model in SageMaker.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 086_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p86 13. Neural Topic Model in SageMaker
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -14120,7 +14362,7 @@ How does it work under the hood
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-接下来我们将深入探讨主题建模
+                接下来我们将深入探讨主题建模
 这就是我们试图确定文档主题的地方
 基本上在高层次上
 这些都是无监督方法
@@ -14190,12 +14432,15 @@ Proto buff或csv数据以实际分析一组文档
 这将会控制你的主题最终处于多高的级别
 它可以使用GPU或CPU
 我们推荐使用GPU进行训练，因为它是一个神经网络 但是，你知道的 CPU更便宜，CPU可能会对推理足够
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/087_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p87 14. Latent Dirichlet Allocation (LDA) in SageMaker.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 087_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p87 14. Latent Dirichlet Allocation (LDA) in SageMaker
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -14259,7 +14504,7 @@ Proto buff或csv数据以实际分析一组文档
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-让我们深入研究sagemaker的另一个主题建模算法
+                让我们深入研究sagemaker的另一个主题建模算法
 Lda 它代表潜在狄拉克粘土分配
 我认为它发音为粘土
 关于如何发音存在一些争议
@@ -14337,12 +14582,15 @@ CPU训练
 并且只能单实例运行
 无法并行训练
 只需一个CPU节点 这就是您需要的
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/088_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p88 15. K-Nearest-Neighbors (KNN) in SageMaker.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 088_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p88 15. K-Nearest-Neighbors (KNN) in SageMaker
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -14406,7 +14654,7 @@ CPU训练
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-接下来是knn
+                接下来是knn
 这可能是世界上最简单的机器学习算法之一
 k最近邻 但sagemaker将其提升到了新的水平
 如果你不熟悉knn及其工作原理
@@ -14471,12 +14719,15 @@ CPU或GPU
 你想要什么
 CPU可能会给你更低的延迟
 但GPU会给你更高的吞吐量 如果你试图在大批数据上同时运行kNN
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/089_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p89 16. K-Means Clustering in SageMaker.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 089_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p89 16. K-Means Clustering in SageMaker
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -14540,7 +14791,7 @@ CPU可能会给你更低的延迟
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-下一项是K均值，另一个非常普遍的机器学习算法
+                下一项是K均值，另一个非常普遍的机器学习算法
 Sagemaker也提供了它，再次将它们提升到一个新的水平
 那么K均值到底是什么
 嗯 它是一种无监督的聚类技术
@@ -14647,12 +14898,15 @@ k-means++
 记住每个实例只能使用一个gpu
 因此他们特别推荐使用ml g4dn x large
 如果你希望使用gpu加速进行训练或推理 他们还支持p2s、p3s、g4dns和g4实例类型
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/090_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p90 17. Principal Component Analysis (PCA) in SageMaker.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 090_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p90 17. Principal Component Analysis (PCA) in SageMaker
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -14716,7 +14970,7 @@ k-means++
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-我们这里只有几种算法需要处理
+                我们这里只有几种算法需要处理
 伙计们 所以请继续关注
 接下来是PCA
 它代表主成分分析
@@ -14787,12 +15041,15 @@ PCA的主要超参数是算法模式，就像我们刚刚讨论的那样
 再次 这些特征和属性本身可能没有特定的名称
 但是他们将代表数据中的特征
 这些特征实际上捕捉了你有效拥有的数据的变异性 所以PCA是关于降维的
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/091_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p91 18. Factorization Machines in SageMaker.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 091_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p91 18. Factorization Machines in SageMaker
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -14856,7 +15113,7 @@ PCA的主要超参数是算法模式，就像我们刚刚讨论的那样
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-我们在算法动物园的下一站是因子分解机
+                我们在算法动物园的下一站是因子分解机
 那么因子分解机都是关于什么的呢
 因子分解机擅长处理稀疏数据进行分类或回归
 我指的是稀疏数据是什么意思
@@ -14946,12 +15203,15 @@ GPU只有在你有稀疏数据时才有益
 它处理数据对
 所以用户项目对
 用户点击页面 这在推荐系统中经常被使用
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/092_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p92 19. IP Insights in SageMaker.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 092_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p92 19. IP Insights in SageMaker
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -15015,7 +15275,7 @@ GPU只有在你有稀疏数据时才有益
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-让我们来谈谈ip洞察算法和sagemaker
+                让我们来谈谈ip洞察算法和sagemaker
 ip洞察是关于在你的web日志中找到可疑行为的
 所以 这是一个无监督技术，它学习特定ip地址的使用模式
 它自动识别给定ip地址的异常行为
@@ -15077,12 +15337,15 @@ CPU实例的大小取决于你选择的参数
 所以再次
 IP洞察的主要用途是识别IP地址的异常行为
 使用神经网络 这就是主要信息
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/094_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p94 21. Automatic Model Tuning.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 094_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p94 21. Automatic Model Tuning
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -15146,7 +15409,7 @@ IP洞察的主要用途是识别IP地址的异常行为
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-我们来谈谈sagemaker中的自动模型调优，这是sagemaker系统的一个非常令人兴奋的能力
+                我们来谈谈sagemaker中的自动模型调优，这是sagemaker系统的一个非常令人兴奋的能力
 所以，超参数调优在机器学习世界中是一个真正的大问题
 对于我们所讨论的所有这些算法
 我们谈到了他们暴露的不同超参数
@@ -15266,12 +15529,15 @@ Sagemaker可以启动我们称之为超参数调优作业
 因为学习依赖于某种顺序的学习
 随着时间的推移
 也 在适当的时候 使用对数尺度来探索你的参数空间
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/095_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p95 22. Apache Spark with SageMaker.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 095_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p95 22. Apache Spark with SageMaker
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -15335,7 +15601,7 @@ Sagemaker可以启动我们称之为超参数调优作业
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-那么我们来谈谈sagemaker和apache spark的交集
+                那么我们来谈谈sagemaker和apache spark的交集
 Apache Spark是一个非常流行的数据预处理框架
 它也有一个非常强大的ML lib库
 它也可以进行大规模的机器学习
@@ -15403,12 +15669,15 @@ Xgboost 作为一个当今非常流行的算法
 并利用sagemaker的所有特殊能力
 例如自动超参数调优
 你可能想同时使用它们 所以知道你可以这样做是很好的
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/096_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p96 23. SageMaker Studio, and SageMaker Experiments.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 096_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p96 23. SageMaker Studio, and SageMaker Experiments
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -15472,7 +15741,7 @@ Xgboost 作为一个当今非常流行的算法
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-让我们花点时间来了解sagemaker的新功能
+                让我们花点时间来了解sagemaker的新功能
 这些功能在2020年被引入
 我们将花更多的时间来讨论2021年的新功能
 因为这些功能已经开始出现在考试中
@@ -15522,12 +15791,15 @@ sagemaker studio的另一个组件是sagemaker experiments
 你可以尝试找出哪个模型表现最好，并且将它们相互比较
 这是用sagemaker实验创建的许多不同模型的结果可视化和解释的更有用的方式
 sagemaker实验是您使用sagemaker创建的许多不同模型的结果 模型
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/097_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p97 24. SageMaker Debugger.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 097_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p97 24. SageMaker Debugger
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -15591,7 +15863,7 @@ sagemaker实验是您使用sagemaker创建的许多不同模型的结果 模型
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-亚马逊最近在sagemaker debugger上投入了大量资金
+                亚马逊最近在sagemaker debugger上投入了大量资金
 这在考试中出现的频率开始增加
 因此，值得对这个话题进行更深入的了解
 sagemaker debugger
@@ -15675,12 +15947,15 @@ GPU使用情况
 这些都是您设置调试器规则后自动进行的
 因此，您可以设置一个调试器规则
 它会自动停止训练或通过电子邮件或短信通知您使用sn s自动进行 这允许您同时配置文件系统资源使用情况和训练过程随时间的进展
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/098_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p98 25. SageMaker Autopilot  AutoML.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 098_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p98 25. SageMaker Autopilot  AutoML
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -15744,7 +16019,7 @@ GPU使用情况
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-我们来谈谈sagemaker autopilot和一些更深入的内容
+                我们来谈谈sagemaker autopilot和一些更深入的内容
 因为现在这也出现在考试中
 Sagemaker autopilot只是我们所说的auto ml的一个包装
 所以，自动找出正确的模型和算法的想法，基于你的数据进行预测
@@ -15944,12 +16219,15 @@ Clarify 这是sagemaker的另一个相对较新的功能
 你需要回去清理或解决
 某种方式
 一些特征的重要性 你最终预测
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/099_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p99 26. SageMaker Model Monitor.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 099_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p99 26. SageMaker Model Monitor
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -16013,7 +16291,7 @@ Clarify 这是sagemaker的另一个相对较新的功能
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-我也会在sagemaker模型监控上花更多的时间
+                我也会在sagemaker模型监控上花更多的时间
 尽管这也是一个相对较新的功能
 但它已经开始出现在考试中
 已经 这里的想法是自动获取部署模型质量偏离的警报
@@ -16119,12 +16397,15 @@ Rmsse 精确度
 它将比较训练数据与实时数据的特征排名
 所以它只查看特征在排序中的重要性
 并查看它是如何变化的 与您的训练数据和正在流入的实时数据
+                
 ```
 
 ### /content/drive/MyDrive/bilibili/Udemy-AWSCertifiedMachineLearningSpecialty2025-HandsOn!part1/100_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p100 27. Deployment Guardrails and Shadow Tests.ai-zh.srt
 
 ```
-【角色设定】
+# 🎬 100_Udemy - AWS Certified Machine Learning Specialty 2025 - Hands On! part1 p100 27. Deployment Guardrails and Shadow Tests
+
+                【角色设定】
 你是一位精通 AWS 认证知识,Snowflake,Airflow的中英双语技术编辑兼讲师。
 你的任务是：纠正、润色并整理我提供的 AI 机翻中文字幕内容，使其成为既自然通顺、又符合 AWS, Snowflake和Airflow等专业表达的学习资料。
 
@@ -16188,7 +16469,7 @@ Rmsse 精确度
 收到以下内容后，严格按照上述要求输出，不需额外解释或总结。
 
 
-在sagemaker中有一些新的部署安全特性
+                在sagemaker中有一些新的部署安全特性
 确保当你部署一个新模型时
 坏事不会发生
 如果发生了 可以迅速发现
@@ -16235,4 +16516,5 @@ Rmsse 精确度
 影子变体处理流量的一部分
 并监控其性能
 在这种情况下，你将手动监控 你决定何时将其推广到生产
+                
 ```
